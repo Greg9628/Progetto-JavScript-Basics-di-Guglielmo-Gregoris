@@ -14,11 +14,11 @@ Project JavaScript basics - Guglielmo Gregoris
 
 ## Help
 
-If you encounter any problems with the site, do not hesitate to contact me
+If you encounter any problems with the site, do not hesitate to contact me!
 
 ## Authors
 
-Guglielmo Gregoris
+Guglielmo Gregoris :
 guglielmogregoris.gg@gmail.com
 https://www.linkedin.com/in/guglielmo-gregoris-526186124/
 
