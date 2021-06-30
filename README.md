@@ -21,7 +21,7 @@ Project JavaScript basics - Guglielmo Gregoris
 
 ## Help
 
-If you encounter any problems with the site, do not hesitate to contact me!
+* If you encounter any problems with the site, do not hesitate to contact me!
 
 ## Authors
 
